@@ -386,7 +386,7 @@ show_usage() {
 
 show_menu() {
     echo -e "
-  ${green}XrayR 后端管理脚本，${plain}${red}备份的${plain}
+  ${green}XrayR 后端管理脚本，${plain}${red}wyusgw${plain}
 --- https://github.com/wyusgw/XrayR ---
   ${green}0.${plain} 修改配置
 ————————————————
